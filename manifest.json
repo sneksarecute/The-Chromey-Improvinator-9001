@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "chromey improvinator 9001",
+    "description": "The Chromey Improvinator 9001™ improvinates chromey, turning it from mediocre, into the best piece of software anyone's ever used ever!!!! :>",
+    "version": "6.9.4.20",
+    "content_scripts": [
+        {
+            "js": [ "scripts/codes.js" ],
+            "html": ["codes-inserter"],
+            "matches": [ "<all_urls>" ],
+            "world":  "MAIN"
+        }
+    ],
+    "action": {
+        "default_popup": "popup-text.html",
+        "default_icon": "ico.png"
+    }
+}
