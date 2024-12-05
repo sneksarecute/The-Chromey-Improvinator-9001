@@ -1,0 +1,8 @@
+1: put all the relevant files in a folder (the name doesn't matter; in-browser, it always shows whatever the manifest says)
+2: go to the chromey extensions page (chrome://extensions, if i remember right), and turn on dev mode in the corner
+3: click on "load unpacked", and select teh folder you put everything in. you should see a message in the other corner saying it worked
+4: laugh maniacally as chaos unfolds >:D
+
+some recommendations:
+change ecosia.org in the allowlist to whatever search engine your target uses
+if your target can't disable/remove it themselves, don't help them. if thay can't do that, then they shouldn't be using a computer in the first place
