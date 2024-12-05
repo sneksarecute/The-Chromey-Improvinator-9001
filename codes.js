@@ -1,6 +1,6 @@
 //2024 sneksarecute; no rights reserved, although i would really appreciate
-//it if you didn't take an ai to my hard work
-//computer programs making computer programs is fricking heresy
+//it if you didn't take an ai to this :<
+//computer programs making other computer programs is fricking heresy
 'use strict';
 
 //redirect-to list of doom
@@ -10,7 +10,7 @@ const teh_list = ["https://contrachrome.com/comic/page01/",
 "https://www.bbc.com/news/articles/cp81ppr3l9go",
 "https://www.wikihow.com/Uninstall-Google-Chrome"];
 
-//don't-redirect-from lizt (includes subdomains eg: https://www.ecosia.org/search?method=index&q=dooppiio
+//don't-redirect-from lizt (includes anything with the string in the url eg: https://www.ecosia.org/search?method=index&q=dooppiio
 //would be allowed, because ecosia.org is listed)
 const acceptibilites = ["contrachrome.com",
 "ecosia.org",
