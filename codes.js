@@ -1,5 +1,5 @@
 //2024 sneksarecute; no rights reserved, although i would really appreciate
-//it if you didn't take an ai to this :<
+//it if you didn't take an ai to this
 //computer programs making other computer programs is fricking heresy
 'use strict';
 
